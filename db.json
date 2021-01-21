@@ -1,0 +1,104 @@
+{
+    "animes": [
+        {
+            "id": 0,
+            "img": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg?s=3df5ebb6800604dc04c6a6187dd7161b",
+            "title": "Shingeki no Kyojin: The Final Season",
+            "airing": true,
+            "discription": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as...",
+            "type": "TV",
+            "episodes": 16,
+            "score": 9.16,
+            "rated": "R"
+        },
+        {
+            "id": 1,
+            "img": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=f792b8c9e28534ae455d06b15e686a14",
+            "title": "One Piece",
+            "airing": true,
+            "discription": "Gol D. Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout...",
+            "type": "TV",
+            "episodes": 963,
+            "score": 9.16,
+            "rated": "R"
+        },
+        {
+            "id": 2,
+            "img": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg?s=3df5ebb6800604dc04c6a6187dd7161b",
+            "title": "Shingeki no Kyojin: The Final Season",
+            "airing": true,
+            "discription": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as...",
+            "type": "TV",
+            "episodes": 16,
+            "score": 9.16,
+            "rated": "R"
+        },
+        {
+            "id": 3,
+            "img": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg?s=3df5ebb6800604dc04c6a6187dd7161b",
+            "title": "Shingeki no Kyojin: The Final Season",
+            "airing": true,
+            "discription": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as...",
+            "type": "TV",
+            "episodes": 16,
+            "score": 9.16,
+            "rated": "R"
+        },
+        {
+            "id": 4,
+            "img": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg?s=3df5ebb6800604dc04c6a6187dd7161b",
+            "title": "Shingeki no Kyojin: The Final Season",
+            "airing": true,
+            "discription": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as...",
+            "type": "TV",
+            "episodes": 16,
+            "score": 9.16,
+            "rated": "R"
+        },
+        {
+            "id": 5,
+            "img": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg?s=3df5ebb6800604dc04c6a6187dd7161b",
+            "title": "Shingeki no Kyojin: The Final Season",
+            "airing": true,
+            "discription": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as...",
+            "type": "TV",
+            "episodes": 16,
+            "score": 9.16,
+            "rated": "R"
+        },
+        {
+            "id": 6,
+            "img": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg?s=3df5ebb6800604dc04c6a6187dd7161b",
+            "title": "Shingeki no Kyojin: The Final Season",
+            "airing": true,
+            "discription": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as...",
+            "type": "TV",
+            "episodes": 16,
+            "score": 9.16,
+            "rated": "R"
+        },
+        {
+            "id": 7,
+            "img": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg?s=3df5ebb6800604dc04c6a6187dd7161b",
+            "title": "Shingeki no Kyojin: The Final Season",
+            "airing": true,
+            "discription": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as...",
+            "type": "TV",
+            "episodes": 16,
+            "score": 9.16,
+            "rated": "R"
+        },
+        {
+            "id": 8,
+            "img": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg?s=3df5ebb6800604dc04c6a6187dd7161b",
+            "title": "Shingeki no Kyojin: The Final Season",
+            "airing": true,
+            "discription": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as...",
+            "type": "TV",
+            "episodes": 16,
+            "score": 9.16,
+            "rated": "R"
+        }
+            
+    ]
+}
